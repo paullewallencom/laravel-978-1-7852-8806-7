@@ -1,0 +1,7 @@
+---
+applications:
+- name: laravel-db
+  memory: 128M
+  buildpack: https://github.com/cloudfoundry/php-buildpack
+  env:
+      APP_KEY: qWNCwpdA4kdU56ix2kyQCSnpojC67g77
